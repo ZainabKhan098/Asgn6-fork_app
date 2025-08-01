@@ -1,3 +1,6 @@
+body{
+    margin: 0px;
+}
 .navbar-container{
     display: flex;
     position: fixed;
@@ -181,7 +184,7 @@
     font-size: 16px;
 }
 #about-section{
-    background-image: url("images/img-decor-02.jpg");
+    background-image: url("images/r6lcnkks.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -189,7 +192,7 @@
 }
 .about-heading{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 120px;
     color: #e3dfed;
     font-size: 45px;
     font-family: "Montserrat", sans-serif ;
