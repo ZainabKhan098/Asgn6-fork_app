@@ -1,5 +1,5 @@
 body{
-    margin: 0px;
+    padding: 0px;
 }
 .navbar-container{
     display: flex;
@@ -86,7 +86,7 @@ body{
     align-items: center;
     justify-content: center;
     position: relative;
-    top: 440px;
+    top: 505px;
 }
 .download-button{
     background-color: #8a7ea8;
@@ -107,7 +107,7 @@ body{
     color: #838d96;
     text-align: center;
     position: relative;
-    top: 440px;
+    top: 505px;
     font-family: "Source Sans Pro", sans-serif;
 }
 #editor-section{
